@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:supabase_flutter/supabase_flutter.dart'; // لجلب userId
-import 'main.dart'; // ✅ Assure-toi que DailyMenuPage est bien importée
+import 'DailyMenu.dart'; // ✅ Assure-toi que DailyMenuPage est bien importée
 import 'editprofile.dart'; // استيراد صفحة EditProfileScreen
 import 'history.dart'; // استيراد صفحة HistoriquePage
 
