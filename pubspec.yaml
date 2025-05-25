@@ -14,6 +14,8 @@ dependencies:
   pdf: ^3.10.0
   printing: ^5.11.0
   upgrade: ^0.0.8
+  font_awesome_flutter: ^10.7.0  # إضافة حزمة font_awesome_flutter
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
